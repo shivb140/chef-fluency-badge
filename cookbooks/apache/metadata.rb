@@ -1,6 +1,6 @@
 name 'apache'
 maintainer 'shivb140'
-maintainer_email 'shivab140@gmail.com'
+maintainer_email 'shivab140@github.com'
 license 'All Rights Reserved'
 description 'Installs/Configures apache'
 long_description 'Installs/Configures apache'
